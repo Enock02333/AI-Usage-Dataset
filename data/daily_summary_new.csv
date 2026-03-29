@@ -1,0 +1,181 @@
+date,total_screen_time_min,screen_interactive_min,unlock_count_proxy,top_app_1,top_app_1_min,top_app_2,top_app_2_min,top_app_3,top_app_3_min,social_media_min,messaging_min,video_min,browser_min,productivity_min,education_min,gaming_min
+2025-09-19,1134,552,134,com.whatsapp.w4b,142,com.whatsapp,103,org.telegram.messenger,59,125,194,22,101,23,0,0
+2025-09-20,1027,593,78,com.whatsapp.w4b,114,One UI Home,94,org.telegram.messenger,57,20,160,0,60,1,0,0
+2025-09-21,3581,527,162,com.facebook.katana,632,com.whatsapp,406,com.google.android.youtube,286,399,528,99,162,39,0,0
+2025-09-22,774,605,75,com.zyhwplatform.shortplay,114,com.whatsapp.w4b,59,com.google.android.youtube,40,60,51,0,44,18,0,0
+2025-09-23,677,520,94,com.whatsapp,116,One UI Home,77,org.telegram.messenger,59,79,137,0,43,4,0,19
+2025-09-24,834,543,119,com.whatsapp,145,One UI Home,97,com.google.android.youtube,49,88,129,16,11,0,0,0
+2025-09-25,1280,580,100,com.whatsapp,182,org.telegram.messenger,96,com.android.chrome,79,100,300,31,108,0,26,0
+2025-09-26,566,548,115,com.whatsapp,91,com.facebook.katana,44,One UI Home,40,84,79,0,14,18,0,0
+2025-09-27,1189,633,115,com.whatsapp,167,com.whatsapp.w4b,90,com.android.chrome,43,73,196,0,68,17,0,0
+2025-09-28,1068,561,110,com.zyhwplatform.shortplay,147,com.android.chrome,64,com.facebook.katana,43,70,210,74,58,16,0,0
+2025-09-29,1067,695,109,com.whatsapp,177,com.android.chrome,92,com.whatsapp.w4b,65,84,190,0,85,22,0,0
+2025-09-30,719,592,169,com.zyhwplatform.shortplay,103,com.google.android.youtube,53,com.whatsapp,40,21,104,20,22,0,0,0
+2025-10-01,837,645,88,com.whatsapp,124,com.whatsapp.w4b,73,com.google.android.youtube,66,49,187,0,48,26,0,8
+2025-10-02,763,487,123,com.whatsapp,117,com.facebook.katana,83,com.whatsapp.w4b,45,62,149,28,19,12,0,0
+2025-10-03,1175,494,135,One UI Home,179,com.facebook.katana,112,com.google.android.youtube,108,53,247,58,36,26,0,0
+2025-10-04,1124,539,108,com.zyhwplatform.shortplay,208,org.telegram.messenger,122,One UI Home,84,54,199,37,64,23,18,0
+2025-10-05,3929,558,154,com.facebook.katana,679,com.google.android.youtube,296,com.whatsapp.w4b,285,454,652,116,210,46,0,0
+2025-10-06,1271,572,83,com.zyhwplatform.shortplay,190,One UI Home,114,com.whatsapp.w4b,98,94,246,10,68,16,7,0
+2025-10-07,1319,484,92,com.whatsapp,224,com.facebook.katana,127,com.android.chrome,92,108,261,46,174,23,0,0
+2025-10-08,991,602,91,com.whatsapp,82,org.telegram.messenger,81,com.whatsapp.w4b,69,62,157,27,114,0,25,0
+2025-10-09,1082,501,94,com.whatsapp.w4b,227,com.whatsapp,101,com.android.chrome,24,96,162,32,55,5,0,0
+2025-10-10,1111,524,139,com.zyhwplatform.shortplay,144,com.facebook.katana,78,com.google.android.youtube,54,54,195,40,80,0,0,0
+2025-10-11,1609,602,107,com.whatsapp,270,com.whatsapp.w4b,113,org.telegram.messenger,105,140,385,66,38,13,0,0
+2025-10-12,1370,529,136,One UI Home,142,com.whatsapp.w4b,100,com.facebook.katana,85,0,201,28,34,36,0,0
+2025-10-13,1409,481,153,com.whatsapp,200,com.facebook.katana,104,com.android.chrome,87,99,209,47,76,10,0,0
+2025-10-14,1220,647,82,com.whatsapp,149,com.facebook.katana,93,com.google.android.youtube,63,149,132,27,77,18,0,0
+2025-10-15,918,607,122,com.whatsapp.w4b,100,com.android.chrome,70,One UI Home,61,43,206,31,69,19,0,0
+2025-10-16,3613,584,163,com.zyhwplatform.shortplay,774,com.whatsapp.w4b,362,One UI Home,322,455,573,104,175,41,0,0
+2025-10-17,1368,561,139,com.zyhwplatform.shortplay,163,com.facebook.katana,155,com.android.chrome,62,86,261,31,71,24,0,0
+2025-10-18,880,644,151,One UI Home,99,com.whatsapp,92,com.google.android.youtube,50,80,187,22,19,11,0,0
+2025-10-19,970,562,142,One UI Home,119,org.telegram.messenger,83,com.whatsapp.w4b,29,51,138,30,55,6,0,0
+2025-10-20,707,520,102,com.zyhwplatform.shortplay,64,One UI Home,56,com.google.android.youtube,37,59,194,39,31,8,0,0
+2025-10-21,1119,515,130,com.whatsapp.w4b,165,com.whatsapp,90,com.google.android.youtube,69,124,197,38,75,9,0,0
+2025-10-22,852,561,124,com.zyhwplatform.shortplay,126,org.telegram.messenger,116,com.facebook.katana,35,103,197,75,21,21,0,0
+2025-10-23,2791,552,86,com.zyhwplatform.shortplay,484,com.whatsapp.w4b,243,com.whatsapp,211,283,421,74,149,56,28,0
+2025-10-24,712,661,141,com.zyhwplatform.shortplay,60,com.whatsapp.w4b,44,com.google.android.youtube,43,36,51,52,32,23,0,0
+2025-10-25,3570,580,195,com.whatsapp.w4b,556,org.telegram.messenger,379,com.android.chrome,299,345,597,92,193,51,0,12
+2025-10-26,959,665,134,One UI Home,168,com.whatsapp,91,com.facebook.katana,85,103,176,75,97,9,0,0
+2025-10-27,782,598,139,com.zyhwplatform.shortplay,112,com.whatsapp,98,org.telegram.messenger,20,2,88,0,32,18,33,0
+2025-10-28,2292,582,147,com.facebook.katana,360,com.whatsapp,183,One UI Home,141,251,245,55,78,36,0,33
+2025-10-29,988,613,85,com.zyhwplatform.shortplay,119,com.google.android.youtube,99,com.whatsapp.w4b,53,84,154,5,46,0,0,0
+2025-10-30,3238,547,159,com.facebook.katana,569,com.whatsapp.w4b,279,One UI Home,167,351,535,96,183,32,0,0
+2025-10-31,629,635,152,com.whatsapp,84,com.whatsapp.w4b,40,com.android.chrome,20,37,139,24,118,21,0,0
+2025-11-01,1156,538,94,com.whatsapp,214,com.facebook.katana,94,com.google.android.youtube,52,62,159,71,82,14,0,0
+2025-11-02,1467,610,110,com.zyhwplatform.shortplay,225,One UI Home,103,com.whatsapp.w4b,78,97,225,2,99,41,5,0
+2025-11-03,834,512,111,com.zyhwplatform.shortplay,143,com.whatsapp.w4b,78,com.android.chrome,30,33,162,20,35,0,0,20
+2025-11-04,995,601,66,com.whatsapp,82,One UI Home,81,com.whatsapp.w4b,65,86,149,39,28,0,0,0
+2025-11-05,748,595,62,com.whatsapp.w4b,140,com.facebook.katana,62,org.telegram.messenger,47,50,80,2,39,0,0,23
+2025-11-06,689,589,148,com.whatsapp,75,com.whatsapp.w4b,57,com.android.chrome,38,0,88,32,29,13,0,0
+2025-11-07,1235,574,127,One UI Home,183,org.telegram.messenger,144,com.facebook.katana,92,74,200,20,73,10,0,0
+2025-11-08,3290,671,161,com.zyhwplatform.shortplay,759,One UI Home,311,org.telegram.messenger,254,270,489,35,155,40,0,0
+2025-11-09,1264,458,142,One UI Home,199,com.whatsapp.w4b,151,org.telegram.messenger,79,112,161,60,73,10,0,0
+2025-11-10,3296,560,131,com.facebook.katana,709,com.whatsapp.w4b,274,com.android.chrome,253,400,500,84,151,45,0,33
+2025-11-11,700,536,118,com.whatsapp,164,org.telegram.messenger,40,com.facebook.katana,20,72,85,39,73,13,0,0
+2025-11-12,504,642,122,com.zyhwplatform.shortplay,74,com.whatsapp,56,com.whatsapp.w4b,40,34,103,0,94,8,0,0
+2025-11-13,980,517,126,com.whatsapp.w4b,133,com.facebook.katana,81,com.whatsapp,80,125,237,64,35,0,0,0
+2025-11-14,516,644,100,com.android.chrome,64,com.zyhwplatform.shortplay,60,com.whatsapp.w4b,40,23,47,0,49,7,0,10
+2025-11-15,976,497,124,com.whatsapp.w4b,201,org.telegram.messenger,103,com.facebook.katana,53,60,54,23,42,20,0,0
+2025-11-16,769,722,129,One UI Home,89,com.whatsapp,61,com.facebook.katana,35,54,137,24,34,2,0,0
+2025-11-17,741,566,101,com.whatsapp.w4b,92,com.whatsapp,51,org.telegram.messenger,20,97,30,46,72,0,0,0
+2025-11-18,722,499,157,com.zyhwplatform.shortplay,118,com.android.chrome,58,com.whatsapp,40,79,187,36,4,2,0,0
+2025-11-19,848,539,130,com.whatsapp,108,One UI Home,75,org.telegram.messenger,26,73,136,50,12,18,0,36
+2025-11-20,1125,550,101,One UI Home,129,com.whatsapp,113,org.telegram.messenger,26,110,171,0,13,21,0,0
+2025-11-21,1309,572,116,One UI Home,189,com.whatsapp.w4b,97,com.google.android.youtube,77,75,254,32,96,17,0,0
+2025-11-22,1094,486,95,One UI Home,134,com.whatsapp.w4b,70,com.facebook.katana,70,99,205,23,55,17,0,0
+2025-11-23,784,602,79,com.whatsapp,145,org.telegram.messenger,40,com.facebook.katana,21,86,162,26,67,29,0,0
+2025-11-24,747,561,123,One UI Home,72,org.telegram.messenger,40,com.whatsapp.w4b,25,31,143,0,20,0,0,0
+2025-11-25,1149,508,189,One UI Home,165,com.whatsapp,148,com.whatsapp.w4b,67,95,215,7,77,7,0,0
+2025-11-26,1172,521,115,com.whatsapp,186,org.telegram.messenger,115,com.android.chrome,83,135,183,75,78,7,0,0
+2025-11-27,519,520,97,One UI Home,94,com.facebook.katana,54,com.whatsapp.w4b,53,34,121,17,0,11,0,0
+2025-11-28,1096,585,113,com.whatsapp.w4b,116,One UI Home,111,com.android.chrome,65,27,217,33,62,0,0,0
+2025-11-29,1180,582,135,com.whatsapp.w4b,154,org.telegram.messenger,99,com.facebook.katana,61,111,189,32,46,9,0,0
+2025-11-30,1319,531,132,One UI Home,194,com.whatsapp.w4b,125,com.google.android.youtube,81,79,303,38,95,0,0,0
+2025-12-01,1155,532,155,One UI Home,143,com.facebook.katana,83,com.whatsapp.w4b,64,150,192,18,98,33,0,0
+2025-12-02,578,509,77,com.zyhwplatform.shortplay,115,org.telegram.messenger,42,com.android.chrome,34,17,102,20,72,0,0,0
+2025-12-03,1064,498,125,com.zyhwplatform.shortplay,127,com.facebook.katana,73,com.android.chrome,51,79,214,34,122,5,13,0
+2025-12-04,1190,638,100,org.telegram.messenger,129,One UI Home,114,com.whatsapp.w4b,107,58,235,16,77,17,0,0
+2025-12-05,760,539,117,One UI Home,60,com.whatsapp,45,com.google.android.youtube,45,63,166,69,33,0,0,0
+2025-12-06,1460,552,146,com.whatsapp,241,com.facebook.katana,132,com.android.chrome,125,102,316,100,58,12,0,0
+2025-12-07,1172,560,151,com.whatsapp,212,org.telegram.messenger,108,com.google.android.youtube,67,115,248,42,88,28,0,0
+2025-12-08,950,626,89,One UI Home,135,com.facebook.katana,72,com.whatsapp,46,78,153,24,83,14,0,0
+2025-12-09,3493,704,149,com.whatsapp.w4b,712,com.whatsapp,323,org.telegram.messenger,262,394,611,127,172,45,0,0
+2025-12-10,968,619,84,com.zyhwplatform.shortplay,149,com.facebook.katana,112,com.whatsapp.w4b,57,72,143,54,6,5,0,0
+2025-12-11,792,663,69,One UI Home,91,com.android.chrome,65,com.facebook.katana,40,0,162,7,11,18,20,0
+2025-12-12,1085,555,166,One UI Home,143,org.telegram.messenger,95,com.whatsapp.w4b,40,44,127,10,53,16,0,0
+2025-12-13,1400,575,169,com.zyhwplatform.shortplay,203,org.telegram.messenger,128,com.facebook.katana,82,108,273,49,83,25,0,47
+2025-12-14,4249,568,240,com.zyhwplatform.shortplay,755,com.whatsapp.w4b,362,com.android.chrome,264,466,622,109,193,61,0,0
+2025-12-15,833,427,66,One UI Home,116,com.whatsapp.w4b,80,org.telegram.messenger,41,81,185,31,15,9,0,0
+2025-12-16,1156,548,117,com.zyhwplatform.shortplay,152,com.whatsapp,132,com.facebook.katana,82,87,116,23,39,2,0,0
+2025-12-17,812,591,149,com.zyhwplatform.shortplay,145,com.whatsapp.w4b,79,com.facebook.katana,70,85,149,4,60,14,0,0
+2025-12-18,825,632,115,One UI Home,99,com.whatsapp.w4b,59,com.facebook.katana,58,120,117,64,47,2,0,0
+2025-12-19,1083,528,114,com.zyhwplatform.shortplay,173,com.whatsapp.w4b,64,com.android.chrome,60,140,273,38,55,14,0,0
+2025-12-20,2564,627,177,com.facebook.katana,571,org.telegram.messenger,307,com.google.android.youtube,187,260,546,33,87,33,0,0
+2025-12-21,1345,578,132,com.whatsapp.w4b,166,One UI Home,116,com.android.chrome,91,121,271,0,109,33,0,0
+2025-12-22,1033,530,95,com.whatsapp,108,com.zyhwplatform.shortplay,60,com.whatsapp.w4b,27,72,239,39,41,22,0,0
+2025-12-23,887,498,75,com.whatsapp,127,com.google.android.youtube,73,One UI Home,43,97,139,31,43,16,0,0
+2025-12-24,860,474,98,One UI Home,134,com.whatsapp,78,com.google.android.youtube,72,105,193,13,33,6,0,57
+2025-12-25,1039,546,108,One UI Home,143,com.facebook.katana,85,com.whatsapp.w4b,22,71,185,44,53,21,0,0
+2025-12-26,1205,579,145,com.whatsapp.w4b,190,One UI Home,73,com.android.chrome,60,0,311,27,91,2,0,0
+2025-12-27,1568,570,147,One UI Home,218,org.telegram.messenger,130,com.facebook.katana,115,136,305,43,89,48,0,0
+2025-12-28,1377,645,156,com.whatsapp,191,org.telegram.messenger,117,com.google.android.youtube,89,62,321,6,77,7,0,0
+2025-12-29,1096,649,127,com.zyhwplatform.shortplay,143,com.facebook.katana,118,com.android.chrome,63,69,241,57,20,20,0,38
+2025-12-30,3287,575,155,com.zyhwplatform.shortplay,452,org.telegram.messenger,267,com.google.android.youtube,210,312,458,122,141,28,0,0
+2025-12-31,1395,616,101,One UI Home,147,com.android.chrome,104,com.whatsapp,75,165,295,27,0,44,0,0
+2026-01-01,1589,636,139,com.whatsapp,220,com.facebook.katana,111,com.google.android.youtube,90,129,324,59,87,20,0,0
+2026-01-02,599,555,78,One UI Home,69,com.whatsapp.w4b,60,com.facebook.katana,20,9,116,50,56,0,0,0
+2026-01-03,1073,610,105,com.whatsapp.w4b,150,com.whatsapp,98,com.facebook.katana,69,78,133,12,63,0,0,34
+2026-01-04,1456,587,127,com.whatsapp,181,com.facebook.katana,122,One UI Home,86,106,287,38,74,9,0,0
+2026-01-05,712,522,88,org.telegram.messenger,104,com.whatsapp.w4b,70,com.facebook.katana,20,77,115,49,17,12,0,0
+2026-01-06,1086,595,126,com.whatsapp.w4b,229,com.facebook.katana,75,org.telegram.messenger,38,70,190,28,50,25,0,0
+2026-01-07,991,702,90,One UI Home,125,org.telegram.messenger,75,com.android.chrome,48,119,254,11,65,31,0,0
+2026-01-08,769,524,75,com.zyhwplatform.shortplay,137,com.google.android.youtube,54,One UI Home,40,55,104,25,0,13,0,0
+2026-01-09,1308,493,165,com.whatsapp.w4b,202,com.whatsapp,84,com.android.chrome,82,104,204,31,81,17,0,0
+2026-01-10,2756,599,137,com.whatsapp.w4b,498,One UI Home,303,com.google.android.youtube,226,270,555,96,155,20,0,0
+2026-01-11,1690,602,149,One UI Home,209,org.telegram.messenger,106,com.facebook.katana,65,109,310,38,104,32,0,0
+2026-01-12,1134,499,55,com.whatsapp.w4b,191,com.whatsapp,84,com.android.chrome,73,91,316,28,80,15,0,27
+2026-01-13,1089,523,142,com.zyhwplatform.shortplay,152,com.whatsapp.w4b,111,org.telegram.messenger,75,71,162,41,29,13,0,0
+2026-01-14,1005,605,152,com.zyhwplatform.shortplay,119,com.whatsapp.w4b,76,com.android.chrome,61,87,181,0,20,8,0,0
+2026-01-15,1136,556,129,com.whatsapp.w4b,180,org.telegram.messenger,125,com.google.android.youtube,93,81,116,5,53,0,0,0
+2026-01-16,957,642,116,com.zyhwplatform.shortplay,140,com.facebook.katana,77,com.android.chrome,66,57,145,16,37,14,0,0
+2026-01-17,1412,632,97,com.zyhwplatform.shortplay,135,One UI Home,125,com.facebook.katana,100,22,296,1,64,3,0,0
+2026-01-18,986,437,115,com.whatsapp,142,org.telegram.messenger,83,com.facebook.katana,57,81,111,29,49,19,0,0
+2026-01-19,964,558,86,com.facebook.katana,109,com.whatsapp,78,com.whatsapp.w4b,54,54,134,20,96,0,0,0
+2026-01-20,2852,642,129,com.whatsapp.w4b,601,One UI Home,280,org.telegram.messenger,270,396,532,59,203,27,0,0
+2026-01-21,4076,587,147,com.facebook.katana,667,com.android.chrome,374,com.whatsapp.w4b,323,469,645,152,208,45,20,0
+2026-01-22,837,502,125,One UI Home,170,org.telegram.messenger,60,com.android.chrome,45,94,183,46,21,0,0,0
+2026-01-23,1311,591,131,com.zyhwplatform.shortplay,237,org.telegram.messenger,116,com.google.android.youtube,89,157,207,56,67,19,0,0
+2026-01-24,1367,560,114,com.whatsapp.w4b,182,org.telegram.messenger,116,com.android.chrome,98,64,158,86,37,14,0,0
+2026-01-25,1313,548,132,com.zyhwplatform.shortplay,225,org.telegram.messenger,109,com.facebook.katana,53,100,225,73,79,25,0,37
+2026-01-26,1079,524,100,One UI Home,242,com.whatsapp.w4b,99,com.google.android.youtube,30,93,250,28,63,33,0,31
+2026-01-27,1161,581,152,One UI Home,142,com.facebook.katana,106,org.telegram.messenger,103,101,203,0,52,4,0,0
+2026-01-28,1072,494,127,One UI Home,146,com.facebook.katana,95,org.telegram.messenger,47,111,166,23,54,3,0,37
+2026-01-29,2954,625,138,com.facebook.katana,420,org.telegram.messenger,287,com.whatsapp,197,403,474,79,174,18,0,0
+2026-01-30,839,701,94,com.zyhwplatform.shortplay,153,org.telegram.messenger,80,com.facebook.katana,66,64,220,71,100,25,0,0
+2026-01-31,956,535,130,com.whatsapp,94,org.telegram.messenger,72,com.whatsapp.w4b,43,62,152,41,75,13,0,49
+2026-02-01,637,575,121,com.whatsapp.w4b,81,com.facebook.katana,40,org.telegram.messenger,31,90,143,0,84,22,24,0
+2026-02-02,1223,664,160,com.zyhwplatform.shortplay,166,com.whatsapp,88,com.google.android.youtube,41,71,170,34,12,19,0,0
+2026-02-03,1082,531,82,com.zyhwplatform.shortplay,130,com.whatsapp,97,com.android.chrome,45,0,194,71,101,7,0,0
+2026-02-04,1029,602,148,com.whatsapp.w4b,157,com.facebook.katana,102,com.google.android.youtube,46,69,176,4,28,10,0,0
+2026-02-05,1312,545,118,One UI Home,186,com.facebook.katana,116,com.google.android.youtube,47,69,127,55,86,12,0,0
+2026-02-06,824,604,75,One UI Home,90,com.google.android.youtube,53,com.whatsapp,48,66,87,32,40,0,30,0
+2026-02-07,4101,549,189,com.whatsapp.w4b,786,com.facebook.katana,321,org.telegram.messenger,211,470,746,107,195,39,0,0
+2026-02-08,1172,630,68,com.whatsapp,158,One UI Home,124,com.google.android.youtube,57,52,239,81,59,5,0,0
+2026-02-09,2725,558,117,com.zyhwplatform.shortplay,393,org.telegram.messenger,285,com.whatsapp.w4b,215,305,577,76,129,29,0,0
+2026-02-10,3064,761,159,com.facebook.katana,656,One UI Home,320,org.telegram.messenger,246,303,491,105,156,20,0,0
+2026-02-11,1201,535,152,One UI Home,204,org.telegram.messenger,89,com.whatsapp.w4b,64,86,255,42,36,7,0,0
+2026-02-12,711,583,166,com.whatsapp.w4b,66,com.whatsapp,62,org.telegram.messenger,39,18,129,53,33,14,0,0
+2026-02-13,1176,625,189,com.zyhwplatform.shortplay,154,org.telegram.messenger,98,com.android.chrome,97,100,226,34,49,18,0,0
+2026-02-14,817,643,165,com.zyhwplatform.shortplay,79,com.android.chrome,66,com.whatsapp,54,54,52,5,77,10,0,0
+2026-02-15,1189,567,124,com.whatsapp.w4b,220,com.whatsapp,117,com.facebook.katana,63,71,173,70,50,29,0,0
+2026-02-16,3380,584,131,com.zyhwplatform.shortplay,665,com.whatsapp.w4b,294,org.telegram.messenger,293,386,492,114,156,43,0,0
+2026-02-17,824,608,72,com.zyhwplatform.shortplay,122,org.telegram.messenger,74,com.google.android.youtube,59,61,236,0,22,16,0,0
+2026-02-18,1091,621,126,com.whatsapp,191,org.telegram.messenger,85,com.whatsapp.w4b,22,69,227,75,51,1,0,0
+2026-02-19,1142,531,113,One UI Home,151,com.facebook.katana,108,org.telegram.messenger,81,90,214,46,45,20,0,0
+2026-02-20,715,620,93,com.whatsapp,99,com.google.android.youtube,59,One UI Home,51,74,145,64,29,4,0,0
+2026-02-21,673,522,95,com.zyhwplatform.shortplay,135,com.whatsapp.w4b,45,com.facebook.katana,40,76,198,14,29,9,0,0
+2026-02-22,1296,608,142,com.whatsapp.w4b,199,org.telegram.messenger,134,com.facebook.katana,75,121,112,49,46,0,0,0
+2026-02-23,1173,649,153,One UI Home,142,com.whatsapp.w4b,135,org.telegram.messenger,67,131,245,31,14,11,0,0
+2026-02-24,976,590,114,com.whatsapp.w4b,115,One UI Home,77,com.android.chrome,50,119,148,29,28,0,0,0
+2026-02-25,782,483,107,com.whatsapp,83,com.android.chrome,74,org.telegram.messenger,70,10,175,22,0,6,0,0
+2026-02-26,501,566,100,com.whatsapp,108,com.facebook.katana,68,org.telegram.messenger,41,55,100,0,16,0,0,0
+2026-02-27,939,521,70,com.whatsapp.w4b,163,com.facebook.katana,64,com.google.android.youtube,59,12,98,30,61,0,0,0
+2026-02-28,1463,629,132,com.zyhwplatform.shortplay,200,org.telegram.messenger,119,com.google.android.youtube,83,76,167,19,67,6,0,0
+2026-03-01,924,589,142,com.whatsapp,138,One UI Home,95,com.facebook.katana,61,32,230,21,47,20,0,0
+2026-03-02,816,580,78,com.whatsapp,117,com.whatsapp.w4b,69,org.telegram.messenger,28,60,145,15,37,0,0,20
+2026-03-03,1271,512,145,One UI Home,213,com.facebook.katana,104,com.whatsapp.w4b,87,102,200,76,30,26,0,0
+2026-03-04,3053,601,157,com.zyhwplatform.shortplay,663,com.whatsapp.w4b,325,org.telegram.messenger,201,330,576,96,104,52,0,8
+2026-03-05,876,499,105,One UI Home,115,com.whatsapp,40,com.google.android.youtube,36,52,193,55,83,4,0,0
+2026-03-06,1210,649,82,com.whatsapp,153,One UI Home,96,com.android.chrome,84,67,217,37,38,20,0,0
+2026-03-07,1104,556,130,com.whatsapp,144,One UI Home,104,com.android.chrome,60,75,182,21,100,20,0,0
+2026-03-08,1389,600,135,One UI Home,273,org.telegram.messenger,125,com.android.chrome,93,111,179,7,36,18,35,0
+2026-03-09,559,530,83,com.whatsapp.w4b,90,com.zyhwplatform.shortplay,87,org.telegram.messenger,20,21,93,2,0,16,7,0
+2026-03-10,2200,569,165,com.facebook.katana,298,com.whatsapp,209,One UI Home,195,330,288,67,97,25,0,65
+2026-03-11,1261,565,126,com.whatsapp.w4b,190,org.telegram.messenger,100,com.facebook.katana,98,77,239,23,80,11,0,0
+2026-03-12,993,462,148,com.whatsapp.w4b,249,com.whatsapp,103,com.android.chrome,64,42,149,10,88,0,0,0
+2026-03-13,997,576,128,com.whatsapp.w4b,133,One UI Home,105,com.android.chrome,72,89,204,27,44,10,0,0
+2026-03-14,429,616,126,com.whatsapp.w4b,74,org.telegram.messenger,40,com.facebook.katana,20,29,60,39,48,0,0,0
+2026-03-15,3194,652,197,com.zyhwplatform.shortplay,671,org.telegram.messenger,321,com.google.android.youtube,303,374,594,93,142,44,0,0
+2026-03-16,1193,579,146,com.whatsapp.w4b,162,One UI Home,78,com.android.chrome,65,83,175,26,39,6,0,0
+2026-03-17,573,572,105,com.facebook.katana,64,One UI Home,60,com.whatsapp.w4b,31,16,133,38,0,0,10,0
