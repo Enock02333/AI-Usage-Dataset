@@ -16,7 +16,6 @@ AI-Usage-Dataset/
 ├── README.md
 ├── data/
 │   ├── dail_summary_new.csv
-│   └── app_usage_daily.csv
 ├── code/
 │   └── train.py
 └── output/
